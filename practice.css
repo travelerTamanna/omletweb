@@ -1,0 +1,63 @@
+.head img{
+    
+width:400px;
+height: 200px;
+    
+}
+*{
+    
+}
+.section1{
+    color:#68325a  ;
+    
+}
+#s1{
+    background-color: hsl(313, 16%, 89%)  ;
+padding:5px 5px
+}
+#s2{
+    
+}
+.c{
+    color:rgb(113, 7, 7)
+}
+.tabl{
+    text-align: center;
+    
+    
+}
+td{
+    
+    
+}
+.nutrition-container {
+    
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+   
+    text-align: left;
+}
+.nutrition-item {
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nutrition-item span {
+    font-weight: bold;
+    color: #7d4b2b; /* Light brown */
+}
+.main{
+  
+    background-color: #deccd9;
+}
+.container{
+
+    width:30%;
+    height: 60%;
+margin-left: 400px;
+
+    padding:50px 50px;
+    border-radius: 25px;
+    background-color: aliceblue;
+}
