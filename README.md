@@ -1,1 +1,1 @@
- https://travelertamanna.github.io/omletweb/
+https://travelertamanna.github.io/omletweb/
